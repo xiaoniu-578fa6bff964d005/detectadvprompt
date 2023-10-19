@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "detectadvprompt"
-version = "0.0.1"
+version = "0.1.0"
 description = ""
 authors = ["Zhengmian Hu <huzhengmian@gmail.com>"]
 readme = "README.md"
