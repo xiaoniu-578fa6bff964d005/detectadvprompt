@@ -2,6 +2,8 @@
 
 `detectadvprompt` is a Python package designed to identify adversarial prompt attacks on Language Learning Models (LLMs). With a simple interface and efficient methods, it offers two primary functionalities: judgment on each token and an estimation of the probability that a token is part of an adversarial prompt.
 
+[Online Demo](https://detectadvprompt.streamlit.app)
+
 ## Installation
 
 ```bash
